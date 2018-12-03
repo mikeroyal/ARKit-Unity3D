@@ -46,6 +46,8 @@ The plugin is open sourced and is released under the MIT license.
 
 [MoltenVK](https://github.com/KhronosGroup/MoltenVK/tree/8d9ee9b5184ab2df1f339d8413475b8168b868b3) is an implementation of the high-performance, industry-standard Vulkan graphics and compute API, that runs on Apple's Metal graphics framework, bringing Vulkan to iOS and macOS.
 
+[MoltenGL](https://moltengl.com/) is an implementation of the [OpenGL ES 2.0](https://www.khronos.org/opengles/) API that runs on Apple's [Metal](https://developer.apple.com/metal/) graphics framework.
+
 [Apple's ARKit Developer Forums](https://forums.developer.apple.com/community/graphics-and-games/arkit)
 
 Requirements:
